@@ -1,0 +1,399 @@
+id,fonte,marca,modelo,versao,ano,combustivel,caixa,quilometros,potencia_cv,preco,data_recolha,url
+A0001,olx,Renault,Clio,1.0 TCe 90 Intens,2015,Gasolina,Manual,138500,90,6150,2026-09-06,https://exemplo.local/olx/1
+A0002,standvirtual,Renault,Clio,1.0 TCe 90 Intens,2015,Gasolina,Manual,117500,90,5850,2026-09-02,https://exemplo.local/standvirtual/2
+A0003,standvirtual,Renault,Clio,1.3 TCe 130 RS Line EDC,2017,Gasolina,Automática,179000,130,6550,2026-09-02,https://exemplo.local/standvirtual/3
+A0004,standvirtual,Renault,Clio,1.5 dCi 85 Limited,2016,Diesel,Manual,134000,85,6150,2026-09-03,https://exemplo.local/standvirtual/4
+A0005,olx,Renault,Clio,1.3 TCe 130 RS Line EDC,2020,Gasolina,Automática,142000,130,8000,2026-09-06,https://exemplo.local/olx/5
+A0006,standvirtual,Renault,Clio,1.0 TCe 90 Intens,2015,Gasolina,Manual,131000,90,5700,2026-09-02,https://exemplo.local/standvirtual/6
+A0007,standvirtual,Renault,Clio,1.3 TCe 130 RS Line EDC,2018,Gasolina,Automática,136500,130,7300,2026-09-02,https://exemplo.local/standvirtual/7
+A0008,standvirtual,Renault,Clio,1.0 TCe 90 Intens,2021,Gasolina,Manual,36000,90,10150,2026-09-04,https://exemplo.local/standvirtual/8
+A0009,standvirtual,Renault,Clio,1.0 SCe 75 Zen,2021,Gasolina,Manual,64500,75,11000,2026-09-05,https://exemplo.local/standvirtual/9
+A0010,standvirtual,Renault,Clio,1.3 TCe 130 RS Line EDC,2023,Gasolina,Automática,49500,130,12050,2026-09-06,https://exemplo.local/standvirtual/10
+A0011,standvirtual,Renault,Clio,1.5 dCi 85 Limited,2022,Diesel,Manual,54000,85,10900,2026-09-02,https://exemplo.local/standvirtual/11
+A0012,olx,Renault,Clio,1.0 TCe 90 Intens,2017,Gasolina,Manual,71500,90,7800,2026-09-04,https://exemplo.local/olx/12
+A0013,standvirtual,Renault,Clio,1.3 TCe 130 RS Line EDC,2020,Gasolina,Automática,114000,130,8900,2026-09-06,https://exemplo.local/standvirtual/13
+A0014,standvirtual,Renault,Clio,1.0 TCe 90 Intens,2024,Gasolina,Manual,41000,90,14200,2026-09-02,https://exemplo.local/standvirtual/14
+A0015,olx,Renault,Clio,1.0 TCe 90 Intens,2023,Gasolina,Manual,32000,90,12500,2026-09-02,https://exemplo.local/olx/15
+A0016,standvirtual,Renault,Clio,1.0 TCe 90 Intens,2020,Gasolina,Manual,89500,90,9750,2026-09-03,https://exemplo.local/standvirtual/16
+A0017,olx,Renault,Clio,1.0 SCe 75 Zen,2023,Gasolina,Manual,44500,75,13200,2026-09-02,https://exemplo.local/olx/17
+A0018,standvirtual,Renault,Clio,1.5 dCi 85 Limited,2020,Diesel,Manual,134000,85,9000,2026-09-06,https://exemplo.local/standvirtual/18
+A0019,standvirtual,Renault,Clio,1.3 TCe 130 RS Line EDC,2023,Gasolina,Automática,43500,130,12150,2026-09-01,https://exemplo.local/standvirtual/19
+A0020,standvirtual,Renault,Clio,1.0 TCe 90 Intens,2021,Gasolina,Manual,49500,90,10550,2026-09-03,https://exemplo.local/standvirtual/20
+A0021,standvirtual,Renault,Clio,1.0 SCe 75 Zen,2020,Gasolina,Manual,95500,75,9500,2026-09-04,https://exemplo.local/standvirtual/21
+A0022,standvirtual,Renault,Clio,1.3 TCe 130 RS Line EDC,2019,Gasolina,Automática,136000,130,8450,2026-09-06,https://exemplo.local/standvirtual/22
+A0023,standvirtual,Renault,Clio,1.0 TCe 90 Intens,2018,Gasolina,Manual,85500,90,7300,2026-09-03,https://exemplo.local/standvirtual/23
+A0024,standvirtual,Renault,Clio,1.0 TCe 90 Intens,2015,Gasolina,Manual,212000,90,5650,2026-09-02,https://exemplo.local/standvirtual/24
+A0025,autoscout24,Renault,Clio,1.0 TCe 90 Intens,2017,Gasolina,Manual,82500,90,7550,2026-09-04,https://exemplo.local/autoscout24/25
+A0026,olx,Renault,Clio,1.3 TCe 130 RS Line EDC,2017,Gasolina,Automática,150000,130,7600,2026-09-01,https://exemplo.local/olx/26
+A0027,autoscout24,Renault,Mégane,1.3 TCe 140 GT Line,2020,Gasolina,Manual,115500,140,12650,2026-09-01,https://exemplo.local/autoscout24/27
+A0028,olx,Renault,Mégane,1.5 dCi 115 Limited,2019,Diesel,Manual,194500,115,9750,2026-09-01,https://exemplo.local/olx/28
+A0029,standvirtual,Renault,Mégane,1.3 TCe 140 GT Line,2021,Gasolina,Manual,79500,140,14050,2026-09-06,https://exemplo.local/standvirtual/29
+A0030,autoscout24,Renault,Mégane,1.5 Blue dCi 115 EDC,2021,Diesel,Automática,52000,115,13700,2026-09-01,https://exemplo.local/autoscout24/30
+A0031,standvirtual,Renault,Mégane,1.5 Blue dCi 115 EDC,2024,Diesel,Automática,21500,115,20300,2026-09-03,https://exemplo.local/standvirtual/31
+A0032,autoscout24,Renault,Mégane,1.5 dCi 115 Limited,2019,Diesel,Manual,109000,115,10450,2026-09-06,https://exemplo.local/autoscout24/32
+A0033,autoscout24,Renault,Mégane,1.5 Blue dCi 115 EDC,2022,Diesel,Automática,42000,115,15450,2026-09-02,https://exemplo.local/autoscout24/33
+A0034,standvirtual,Renault,Mégane,1.5 dCi 115 Limited,2018,Diesel,Manual,150000,115,11200,2026-09-06,https://exemplo.local/standvirtual/34
+A0035,standvirtual,Renault,Mégane,1.5 Blue dCi 115 EDC,2020,Diesel,Automática,59000,115,12950,2026-09-01,https://exemplo.local/standvirtual/35
+A0036,standvirtual,Renault,Mégane,1.5 dCi 115 Limited,2022,Diesel,Manual,63500,115,15550,2026-09-01,https://exemplo.local/standvirtual/36
+A0037,olx,Renault,Mégane,1.5 Blue dCi 115 EDC,2023,Diesel,Automática,53000,115,16250,2026-09-02,https://exemplo.local/olx/37
+A0038,standvirtual,Renault,Mégane,1.5 dCi 115 Limited,2023,Diesel,Manual,35500,115,17050,2026-09-05,https://exemplo.local/standvirtual/38
+A0039,olx,Renault,Mégane,1.3 TCe 140 GT Line,2024,Gasolina,Manual,25000,140,19250,2026-09-02,https://exemplo.local/olx/39
+A0040,olx,Renault,Mégane,1.3 TCe 140 GT Line,2022,Gasolina,Manual,51000,140,15750,2026-09-02,https://exemplo.local/olx/40
+A0041,standvirtual,Renault,Mégane,1.5 Blue dCi 115 EDC,2016,Diesel,Automática,60500,115,10300,2026-09-03,https://exemplo.local/standvirtual/41
+A0042,autoscout24,Renault,Mégane,1.5 Blue dCi 115 EDC,2017,Diesel,Automática,63000,115,9350,2026-09-03,https://exemplo.local/autoscout24/42
+A0043,standvirtual,Renault,Mégane,1.5 Blue dCi 115 EDC,2019,Diesel,Automática,153000,115,10000,2026-09-04,https://exemplo.local/standvirtual/43
+A0044,standvirtual,Renault,Mégane,1.5 Blue dCi 115 EDC,2016,Diesel,Automática,201500,115,12450,2026-09-04,https://exemplo.local/standvirtual/44
+A0045,autoscout24,Peugeot,208,1.5 BlueHDi 100 Style,2021,Diesel,Manual,54500,100,10300,2026-09-03,https://exemplo.local/autoscout24/45
+A0046,olx,Peugeot,208,1.2 PureTech 100 Allure,2020,Gasolina,Manual,104500,100,9150,2026-09-05,https://exemplo.local/olx/46
+A0047,standvirtual,Peugeot,208,1.2 PureTech 100 Allure,2021,Gasolina,Manual,56000,100,14800,2026-09-05,https://exemplo.local/standvirtual/47
+A0048,standvirtual,Peugeot,208,1.2 PureTech 100 Allure,2022,Gasolina,Manual,66000,100,12800,2026-09-06,https://exemplo.local/standvirtual/48
+A0049,olx,Peugeot,208,1.2 PureTech 100 Allure,2022,Gasolina,Manual,68500,100,11250,2026-09-05,https://exemplo.local/olx/49
+A0050,standvirtual,Peugeot,208,1.5 BlueHDi 100 Style,2018,Diesel,Manual,149000,100,8400,2026-09-04,https://exemplo.local/standvirtual/50
+A0051,olx,Peugeot,208,1.2 PureTech 75 Active,2019,Gasolina,Manual,181500,75,7700,2026-09-04,https://exemplo.local/olx/51
+A0052,autoscout24,Peugeot,208,1.2 PureTech 75 Active,2023,Gasolina,Manual,55500,75,13050,2026-09-06,https://exemplo.local/autoscout24/52
+A0053,standvirtual,Peugeot,208,1.2 PureTech 75 Active,2020,Gasolina,Manual,59500,75,9200,2026-09-05,https://exemplo.local/standvirtual/53
+A0054,autoscout24,Peugeot,208,1.5 BlueHDi 100 Style,2022,Diesel,Manual,90500,100,10250,2026-09-04,https://exemplo.local/autoscout24/54
+A0055,autoscout24,Peugeot,208,1.5 BlueHDi 100 Style,2023,Diesel,Manual,40000,100,13050,2026-09-03,https://exemplo.local/autoscout24/55
+A0056,standvirtual,Peugeot,208,1.2 PureTech 100 Allure,2019,Gasolina,Manual,124000,100,8200,2026-09-05,https://exemplo.local/standvirtual/56
+A0057,standvirtual,Peugeot,208,1.2 PureTech 75 Active,2018,Gasolina,Manual,178500,75,7300,2026-09-04,https://exemplo.local/standvirtual/57
+A0058,autoscout24,Peugeot,208,1.2 PureTech 100 Allure,2019,Gasolina,Manual,114500,100,9500,2026-09-03,https://exemplo.local/autoscout24/58
+A0059,autoscout24,Peugeot,208,1.2 PureTech 100 Allure,2020,Gasolina,Manual,182000,100,5600,2026-09-04,https://exemplo.local/autoscout24/59
+A0060,autoscout24,Peugeot,208,1.5 BlueHDi 100 Style,2022,Diesel,Manual,139500,100,10950,2026-09-05,https://exemplo.local/autoscout24/60
+A0061,standvirtual,Peugeot,208,1.2 PureTech 100 Allure,2020,Gasolina,Manual,100000,100,10050,2026-09-04,https://exemplo.local/standvirtual/61
+A0062,olx,Peugeot,208,1.2 PureTech 100 Allure,2018,Gasolina,Manual,154500,100,8150,2026-09-04,https://exemplo.local/olx/62
+A0063,autoscout24,Peugeot,208,1.2 PureTech 75 Active,2020,Gasolina,Manual,105500,75,9150,2026-09-02,https://exemplo.local/autoscout24/63
+A0064,olx,Peugeot,208,1.2 PureTech 75 Active,2024,Gasolina,Manual,23500,75,13450,2026-09-05,https://exemplo.local/olx/64
+A0065,olx,Peugeot,208,1.2 PureTech 100 Allure,2021,Gasolina,Manual,91000,100,10500,2026-09-06,https://exemplo.local/olx/65
+A0066,olx,Peugeot,208,1.2 PureTech 100 Allure,2016,Gasolina,Manual,99000,100,6600,2026-09-04,https://exemplo.local/olx/66
+A0067,standvirtual,Peugeot,208,1.5 BlueHDi 100 Style,2017,Diesel,Manual,187000,100,6850,2026-09-06,https://exemplo.local/standvirtual/67
+A0068,standvirtual,Peugeot,208,1.2 PureTech 75 Active,2022,Gasolina,Manual,62500,75,10600,2026-09-06,https://exemplo.local/standvirtual/68
+A0069,standvirtual,Peugeot,308,1.2 PureTech 130 GT Line EAT8,2014,Gasolina,Automática,164000,130,7250,2026-09-03,https://exemplo.local/standvirtual/69
+A0070,olx,Peugeot,308,1.2 PureTech 130 GT Line EAT8,2017,Gasolina,Automática,140000,130,9250,2026-09-05,https://exemplo.local/olx/70
+A0071,autoscout24,Peugeot,308,1.2 PureTech 130 GT Line EAT8,2019,Gasolina,Automática,127000,130,11700,2026-09-01,https://exemplo.local/autoscout24/71
+A0072,standvirtual,Peugeot,308,1.2 PureTech 130 GT Line EAT8,2019,Gasolina,Automática,104500,130,13050,2026-09-03,https://exemplo.local/standvirtual/72
+A0073,olx,Peugeot,308,1.2 PureTech 130 GT Line EAT8,2018,Gasolina,Automática,194000,130,10150,2026-09-05,https://exemplo.local/olx/73
+A0074,olx,Peugeot,308,1.2 PureTech 130 GT Line EAT8,2020,Gasolina,Automática,67000,130,13850,2026-09-04,https://exemplo.local/olx/74
+A0075,olx,Peugeot,308,1.5 BlueHDi 130 Allure,2018,Diesel,Manual,111000,130,10150,2026-09-03,https://exemplo.local/olx/75
+A0076,standvirtual,Peugeot,308,1.2 PureTech 130 GT Line EAT8,2019,Gasolina,Automática,101000,130,12500,2026-09-06,https://exemplo.local/standvirtual/76
+A0077,standvirtual,Peugeot,308,1.5 BlueHDi 130 Allure,2022,Diesel,Manual,29500,130,17700,2026-09-05,https://exemplo.local/standvirtual/77
+A0078,standvirtual,Peugeot,308,1.5 BlueHDi 130 Allure,2022,Diesel,Manual,49500,130,15850,2026-09-06,https://exemplo.local/standvirtual/78
+A0079,autoscout24,Peugeot,308,1.2 PureTech 130 GT Line EAT8,2015,Gasolina,Automática,113000,130,9500,2026-09-06,https://exemplo.local/autoscout24/79
+A0080,standvirtual,Peugeot,308,1.2 PureTech 130 GT Line EAT8,2020,Gasolina,Automática,86000,130,12850,2026-09-04,https://exemplo.local/standvirtual/80
+A0081,standvirtual,Peugeot,308,1.5 BlueHDi 130 Allure,2019,Diesel,Manual,52500,130,13550,2026-09-02,https://exemplo.local/standvirtual/81
+A0082,olx,Peugeot,308,1.5 BlueHDi 130 Allure,2016,Diesel,Manual,224500,130,6900,2026-09-02,https://exemplo.local/olx/82
+A0083,autoscout24,Peugeot,308,1.2 PureTech 130 GT Line EAT8,2019,Gasolina,Automática,82000,130,12450,2026-09-03,https://exemplo.local/autoscout24/83
+A0084,olx,Peugeot,308,1.5 BlueHDi 130 Allure,2024,Diesel,Manual,24000,130,19050,2026-09-02,https://exemplo.local/olx/84
+A0085,standvirtual,Peugeot,2008,1.2 PureTech 100 Active,2017,Gasolina,Manual,113000,100,9800,2026-09-01,https://exemplo.local/standvirtual/85
+A0086,olx,Peugeot,2008,1.5 BlueHDi 110 Allure,2016,Diesel,Manual,120500,110,9500,2026-09-05,https://exemplo.local/olx/86
+A0087,autoscout24,Peugeot,2008,1.2 PureTech 100 Active,2019,Gasolina,Manual,113500,100,11600,2026-09-02,https://exemplo.local/autoscout24/87
+A0088,standvirtual,Peugeot,2008,1.5 BlueHDi 110 Allure,2019,Diesel,Manual,102000,110,11250,2026-09-03,https://exemplo.local/standvirtual/88
+A0089,olx,Peugeot,2008,1.5 BlueHDi 110 Allure,2019,Diesel,Manual,179000,110,9800,2026-09-05,https://exemplo.local/olx/89
+A0090,standvirtual,Peugeot,2008,1.2 PureTech 100 Active,2024,Gasolina,Manual,34500,100,18550,2026-09-02,https://exemplo.local/standvirtual/90
+A0091,olx,Peugeot,2008,1.5 BlueHDi 110 Allure,2023,Diesel,Manual,28500,110,17550,2026-09-04,https://exemplo.local/olx/91
+A0092,olx,Peugeot,2008,1.5 BlueHDi 110 Allure,2021,Diesel,Manual,103500,110,12550,2026-09-03,https://exemplo.local/olx/92
+A0093,standvirtual,Peugeot,2008,1.5 BlueHDi 110 Allure,2022,Diesel,Manual,63500,110,15650,2026-09-03,https://exemplo.local/standvirtual/93
+A0094,standvirtual,Peugeot,2008,1.2 PureTech 100 Active,2021,Gasolina,Manual,78500,100,14600,2026-09-03,https://exemplo.local/standvirtual/94
+A0095,standvirtual,Peugeot,2008,1.5 BlueHDi 110 Allure,2021,Diesel,Manual,91000,110,11850,2026-09-03,https://exemplo.local/standvirtual/95
+A0096,autoscout24,Peugeot,2008,1.2 PureTech 100 Active,2021,Gasolina,Manual,70000,100,14300,2026-09-01,https://exemplo.local/autoscout24/96
+A0097,standvirtual,Peugeot,2008,1.2 PureTech 100 Active,2021,Gasolina,Manual,49000,100,14900,2026-09-04,https://exemplo.local/standvirtual/97
+A0098,standvirtual,Peugeot,2008,1.5 BlueHDi 110 Allure,2017,Diesel,Manual,171000,110,8600,2026-09-01,https://exemplo.local/standvirtual/98
+A0099,standvirtual,Volkswagen,Golf,1.6 TDI 115 Confortline,2019,Diesel,Manual,133000,115,11550,2026-09-06,https://exemplo.local/standvirtual/99
+A0100,standvirtual,Volkswagen,Golf,1.6 TDI 115 Confortline,2023,Diesel,Manual,42500,115,19450,2026-09-05,https://exemplo.local/standvirtual/100
+A0101,standvirtual,Volkswagen,Golf,1.6 TDI 115 Confortline,2023,Diesel,Manual,27500,115,18400,2026-09-03,https://exemplo.local/standvirtual/101
+A0102,standvirtual,Volkswagen,Golf,1.6 TDI 115 Confortline,2024,Diesel,Manual,49500,115,17400,2026-09-01,https://exemplo.local/standvirtual/102
+A0103,standvirtual,Volkswagen,Golf,2.0 TDI 150 DSG,2018,Diesel,Automática,82500,150,12700,2026-09-01,https://exemplo.local/standvirtual/103
+A0104,standvirtual,Volkswagen,Golf,1.6 TDI 115 Confortline,2024,Diesel,Manual,59000,115,10400,2026-09-05,https://exemplo.local/standvirtual/104
+A0105,standvirtual,Volkswagen,Golf,2.0 TDI 150 DSG,2021,Diesel,Automática,63500,150,15250,2026-09-01,https://exemplo.local/standvirtual/105
+A0106,standvirtual,Volkswagen,Golf,1.0 TSI 110 Life,2021,Gasolina,Manual,96500,110,13500,2026-09-02,https://exemplo.local/standvirtual/106
+A0107,standvirtual,Volkswagen,Golf,1.6 TDI 115 Confortline,2020,Diesel,Manual,111000,115,12700,2026-09-04,https://exemplo.local/standvirtual/107
+A0108,olx,Volkswagen,Golf,1.0 TSI 110 Life,2018,Gasolina,Manual,140000,110,10900,2026-09-04,https://exemplo.local/olx/108
+A0109,autoscout24,Volkswagen,Golf,2.0 TDI 150 DSG,2020,Diesel,Automática,86500,150,14250,2026-09-04,https://exemplo.local/autoscout24/109
+A0110,olx,Volkswagen,Golf,1.6 TDI 115 Confortline,2024,Diesel,Manual,34000,115,20350,2026-09-06,https://exemplo.local/olx/110
+A0111,autoscout24,Volkswagen,Golf,1.0 TSI 110 Life,2023,Gasolina,Manual,108500,110,16050,2026-09-02,https://exemplo.local/autoscout24/111
+A0112,olx,Volkswagen,Golf,2.0 TDI 150 DSG,2018,Diesel,Automática,232000,150,9000,2026-09-02,https://exemplo.local/olx/112
+A0113,olx,Volkswagen,Golf,2.0 TDI 150 DSG,2021,Diesel,Automática,61000,150,16550,2026-09-06,https://exemplo.local/olx/113
+A0114,autoscout24,Volkswagen,Golf,1.6 TDI 115 Confortline,2017,Diesel,Manual,83500,115,12050,2026-09-05,https://exemplo.local/autoscout24/114
+A0115,standvirtual,Volkswagen,Golf,1.6 TDI 115 Confortline,2022,Diesel,Manual,26000,115,17200,2026-09-03,https://exemplo.local/standvirtual/115
+A0116,standvirtual,Volkswagen,Golf,1.0 TSI 110 Life,2017,Gasolina,Manual,92000,110,10600,2026-09-05,https://exemplo.local/standvirtual/116
+A0117,autoscout24,Volkswagen,Golf,1.6 TDI 115 Confortline,2021,Diesel,Manual,96000,115,10550,2026-09-03,https://exemplo.local/autoscout24/117
+A0118,olx,Volkswagen,Golf,2.0 TDI 150 DSG,2018,Diesel,Automática,145000,150,11100,2026-09-04,https://exemplo.local/olx/118
+A0119,standvirtual,Volkswagen,Golf,1.6 TDI 115 Confortline,2021,Diesel,Manual,55500,115,14000,2026-09-04,https://exemplo.local/standvirtual/119
+A0120,standvirtual,Volkswagen,Golf,2.0 TDI 150 DSG,2019,Diesel,Automática,124500,150,12300,2026-09-01,https://exemplo.local/standvirtual/120
+A0121,autoscout24,Volkswagen,Polo,1.6 TDI 95,2019,Diesel,Manual,91500,95,10150,2026-09-03,https://exemplo.local/autoscout24/121
+A0122,standvirtual,Volkswagen,Polo,1.6 TDI 95,2019,Diesel,Manual,97500,95,9850,2026-09-04,https://exemplo.local/standvirtual/122
+A0123,olx,Volkswagen,Polo,1.0 TSI 95 Confortline,2021,Gasolina,Manual,79500,95,12650,2026-09-02,https://exemplo.local/olx/123
+A0124,autoscout24,Volkswagen,Polo,1.6 TDI 95,2017,Diesel,Manual,119500,95,7800,2026-09-01,https://exemplo.local/autoscout24/124
+A0125,standvirtual,Volkswagen,Polo,1.0 TSI 95 Confortline,2024,Gasolina,Manual,34000,95,15800,2026-09-01,https://exemplo.local/standvirtual/125
+A0126,olx,Volkswagen,Polo,1.6 TDI 95,2018,Diesel,Manual,163000,95,8200,2026-09-04,https://exemplo.local/olx/126
+A0127,autoscout24,Volkswagen,Polo,1.0 MPI 80 Trendline,2020,Gasolina,Manual,56000,80,10800,2026-09-01,https://exemplo.local/autoscout24/127
+A0128,olx,Volkswagen,Polo,1.0 MPI 80 Trendline,2019,Gasolina,Manual,103000,80,8350,2026-09-04,https://exemplo.local/olx/128
+A0129,standvirtual,Volkswagen,Polo,1.0 MPI 80 Trendline,2016,Gasolina,Manual,79000,80,7500,2026-09-03,https://exemplo.local/standvirtual/129
+A0130,olx,Volkswagen,Polo,1.0 MPI 80 Trendline,2024,Gasolina,Manual,31000,80,14400,2026-09-01,https://exemplo.local/olx/130
+A0131,olx,Volkswagen,Polo,1.0 TSI 95 Confortline,2023,Gasolina,Manual,66500,95,11950,2026-09-02,https://exemplo.local/olx/131
+A0132,standvirtual,Volkswagen,Polo,1.0 MPI 80 Trendline,2019,Gasolina,Manual,128500,80,9700,2026-09-03,https://exemplo.local/standvirtual/132
+A0133,standvirtual,Volkswagen,Polo,1.0 TSI 95 Confortline,2021,Gasolina,Manual,73500,95,12500,2026-09-04,https://exemplo.local/standvirtual/133
+A0134,olx,Volkswagen,Polo,1.6 TDI 95,2015,Diesel,Manual,308500,95,5250,2026-09-04,https://exemplo.local/olx/134
+A0135,standvirtual,Volkswagen,Polo,1.6 TDI 95,2024,Diesel,Manual,17500,95,14450,2026-09-03,https://exemplo.local/standvirtual/135
+A0136,standvirtual,Volkswagen,Polo,1.0 TSI 95 Confortline,2017,Gasolina,Manual,126000,95,7750,2026-09-05,https://exemplo.local/standvirtual/136
+A0137,standvirtual,Volkswagen,Polo,1.0 MPI 80 Trendline,2020,Gasolina,Manual,109000,80,10400,2026-09-06,https://exemplo.local/standvirtual/137
+A0138,standvirtual,Volkswagen,Polo,1.6 TDI 95,2022,Diesel,Manual,88500,95,11250,2026-09-02,https://exemplo.local/standvirtual/138
+A0139,standvirtual,Volkswagen,Polo,1.0 MPI 80 Trendline,2016,Gasolina,Manual,89000,80,7600,2026-09-04,https://exemplo.local/standvirtual/139
+A0140,olx,Volkswagen,Polo,1.6 TDI 95,2020,Diesel,Manual,118000,95,10200,2026-09-01,https://exemplo.local/olx/140
+A0141,standvirtual,Volkswagen,Polo,1.0 MPI 80 Trendline,2019,Gasolina,Manual,93500,80,9700,2026-09-02,https://exemplo.local/standvirtual/141
+A0142,standvirtual,Volkswagen,Polo,1.0 MPI 80 Trendline,2021,Gasolina,Manual,84500,80,11000,2026-09-02,https://exemplo.local/standvirtual/142
+A0143,standvirtual,Toyota,Yaris,1.5 Hybrid Comfort,2014,Híbrido,Automática,154500,116,6450,2026-09-03,https://exemplo.local/standvirtual/143
+A0144,standvirtual,Toyota,Yaris,1.0 VVT-i Comfort,2017,Gasolina,Manual,106000,72,8500,2026-09-06,https://exemplo.local/standvirtual/144
+A0145,standvirtual,Toyota,Yaris,1.5 Hybrid Comfort,2019,Híbrido,Automática,136000,116,10050,2026-09-01,https://exemplo.local/standvirtual/145
+A0146,standvirtual,Toyota,Yaris,1.0 VVT-i Comfort,2018,Gasolina,Manual,111000,72,8250,2026-09-04,https://exemplo.local/standvirtual/146
+A0147,autoscout24,Toyota,Yaris,1.5 Hybrid Comfort,2019,Híbrido,Automática,98500,116,9800,2026-09-06,https://exemplo.local/autoscout24/147
+A0148,standvirtual,Toyota,Yaris,1.5 Hybrid Comfort,2020,Híbrido,Automática,39500,116,12400,2026-09-06,https://exemplo.local/standvirtual/148
+A0149,standvirtual,Toyota,Yaris,1.5 Hybrid Comfort,2016,Híbrido,Automática,125500,116,8850,2026-09-06,https://exemplo.local/standvirtual/149
+A0150,autoscout24,Toyota,Yaris,1.0 VVT-i Comfort,2022,Gasolina,Manual,79500,72,13100,2026-09-05,https://exemplo.local/autoscout24/150
+A0151,standvirtual,Toyota,Yaris,1.0 VVT-i Comfort,2023,Gasolina,Manual,49000,72,12800,2026-09-04,https://exemplo.local/standvirtual/151
+A0152,standvirtual,Toyota,Yaris,1.0 VVT-i Comfort,2020,Gasolina,Manual,73000,72,9900,2026-09-03,https://exemplo.local/standvirtual/152
+A0153,olx,Toyota,Yaris,1.5 Hybrid Comfort,2021,Híbrido,Automática,75500,116,12700,2026-09-06,https://exemplo.local/olx/153
+A0154,standvirtual,Toyota,Yaris,1.5 Hybrid Comfort,2018,Híbrido,Automática,118000,116,8800,2026-09-01,https://exemplo.local/standvirtual/154
+A0155,standvirtual,Toyota,Yaris,1.0 VVT-i Comfort,2024,Gasolina,Manual,15000,72,14700,2026-09-06,https://exemplo.local/standvirtual/155
+A0156,olx,Toyota,Yaris,1.5 Hybrid Comfort,2019,Híbrido,Automática,158000,116,9450,2026-09-06,https://exemplo.local/olx/156
+A0157,olx,Toyota,Yaris,1.0 VVT-i Comfort,2015,Gasolina,Manual,103000,72,7400,2026-09-05,https://exemplo.local/olx/157
+A0158,olx,Toyota,Yaris,1.5 Hybrid Comfort,2023,Híbrido,Automática,32500,116,14300,2026-09-02,https://exemplo.local/olx/158
+A0159,autoscout24,Toyota,Yaris,1.5 Hybrid Comfort,2018,Híbrido,Automática,84000,116,9200,2026-09-06,https://exemplo.local/autoscout24/159
+A0160,standvirtual,Toyota,Yaris,1.5 Hybrid Comfort,2021,Híbrido,Automática,70000,116,10500,2026-09-02,https://exemplo.local/standvirtual/160
+A0161,standvirtual,Toyota,Corolla,2.0 Hybrid Exclusive,2024,Híbrido,Automática,29500,184,22250,2026-09-01,https://exemplo.local/standvirtual/161
+A0162,olx,Toyota,Corolla,1.8 Hybrid Comfort,2021,Híbrido,Automática,135500,122,17300,2026-09-02,https://exemplo.local/olx/162
+A0163,olx,Toyota,Corolla,1.8 Hybrid Comfort,2021,Híbrido,Automática,48500,122,16600,2026-09-04,https://exemplo.local/olx/163
+A0164,standvirtual,Toyota,Corolla,1.8 Hybrid Comfort,2020,Híbrido,Automática,49500,122,15600,2026-09-02,https://exemplo.local/standvirtual/164
+A0165,standvirtual,Toyota,Corolla,2.0 Hybrid Exclusive,2019,Híbrido,Automática,85000,184,15400,2026-09-02,https://exemplo.local/standvirtual/165
+A0166,autoscout24,Toyota,Corolla,2.0 Hybrid Exclusive,2015,Híbrido,Automática,162000,184,8900,2026-09-06,https://exemplo.local/autoscout24/166
+A0167,autoscout24,Toyota,Corolla,1.8 Hybrid Comfort,2018,Híbrido,Automática,149000,122,12600,2026-09-02,https://exemplo.local/autoscout24/167
+A0168,standvirtual,Toyota,Corolla,2.0 Hybrid Exclusive,2023,Híbrido,Automática,70000,184,19600,2026-09-03,https://exemplo.local/standvirtual/168
+A0169,olx,Toyota,Corolla,1.8 Hybrid Comfort,2019,Híbrido,Automática,188000,122,14150,2026-09-02,https://exemplo.local/olx/169
+A0170,autoscout24,Toyota,Corolla,1.8 Hybrid Comfort,2022,Híbrido,Automática,57000,122,19700,2026-09-01,https://exemplo.local/autoscout24/170
+A0171,standvirtual,Toyota,Corolla,1.8 Hybrid Comfort,2020,Híbrido,Automática,120000,122,15050,2026-09-03,https://exemplo.local/standvirtual/171
+A0172,standvirtual,Toyota,Corolla,2.0 Hybrid Exclusive,2015,Híbrido,Automática,247000,184,8850,2026-09-06,https://exemplo.local/standvirtual/172
+A0173,standvirtual,Opel,Corsa,1.2 75 Edition,2021,Gasolina,Manual,61000,75,11800,2026-09-06,https://exemplo.local/standvirtual/173
+A0174,standvirtual,Opel,Corsa,1.5 D 100 Edition,2020,Diesel,Manual,127500,100,9150,2026-09-04,https://exemplo.local/standvirtual/174
+A0175,olx,Opel,Corsa,1.2 Turbo 100 Elegance,2024,Gasolina,Manual,39000,100,14100,2026-09-06,https://exemplo.local/olx/175
+A0176,standvirtual,Opel,Corsa,1.2 75 Edition,2015,Gasolina,Manual,191500,75,5800,2026-09-06,https://exemplo.local/standvirtual/176
+A0177,olx,Opel,Corsa,1.5 D 100 Edition,2020,Diesel,Manual,72000,100,9550,2026-09-04,https://exemplo.local/olx/177
+A0178,autoscout24,Opel,Corsa,1.2 75 Edition,2018,Gasolina,Manual,99500,75,7950,2026-09-04,https://exemplo.local/autoscout24/178
+A0179,autoscout24,Opel,Corsa,1.5 D 100 Edition,2017,Diesel,Manual,91000,100,7100,2026-09-03,https://exemplo.local/autoscout24/179
+A0180,autoscout24,Opel,Corsa,1.2 Turbo 100 Elegance,2022,Gasolina,Manual,88500,100,11800,2026-09-04,https://exemplo.local/autoscout24/180
+A0181,olx,Opel,Corsa,1.2 Turbo 100 Elegance,2023,Gasolina,Manual,47500,100,10050,2026-09-01,https://exemplo.local/olx/181
+A0182,standvirtual,Opel,Corsa,1.2 Turbo 100 Elegance,2018,Gasolina,Manual,89500,100,8650,2026-09-06,https://exemplo.local/standvirtual/182
+A0183,autoscout24,Opel,Corsa,1.2 Turbo 100 Elegance,2015,Gasolina,Manual,232500,100,4850,2026-09-03,https://exemplo.local/autoscout24/183
+A0184,olx,Opel,Corsa,1.5 D 100 Edition,2021,Diesel,Manual,49500,100,9400,2026-09-01,https://exemplo.local/olx/184
+A0185,standvirtual,Opel,Corsa,1.5 D 100 Edition,2021,Diesel,Manual,72000,100,9500,2026-09-06,https://exemplo.local/standvirtual/185
+A0186,standvirtual,Opel,Corsa,1.5 D 100 Edition,2017,Diesel,Manual,128500,100,7100,2026-09-01,https://exemplo.local/standvirtual/186
+A0187,autoscout24,Opel,Corsa,1.5 D 100 Edition,2019,Diesel,Manual,90000,100,8300,2026-09-01,https://exemplo.local/autoscout24/187
+A0188,standvirtual,Opel,Corsa,1.5 D 100 Edition,2016,Diesel,Manual,262000,100,4750,2026-09-05,https://exemplo.local/standvirtual/188
+A0189,autoscout24,Opel,Corsa,1.2 Turbo 100 Elegance,2017,Gasolina,Manual,68000,100,9000,2026-09-06,https://exemplo.local/autoscout24/189
+A0190,autoscout24,Opel,Corsa,1.5 D 100 Edition,2015,Diesel,Manual,208500,100,5050,2026-09-06,https://exemplo.local/autoscout24/190
+A0191,standvirtual,Opel,Corsa,1.5 D 100 Edition,2021,Diesel,Manual,107500,100,9450,2026-09-02,https://exemplo.local/standvirtual/191
+A0192,olx,Opel,Corsa,1.2 Turbo 100 Elegance,2020,Gasolina,Manual,60500,100,9250,2026-09-05,https://exemplo.local/olx/192
+A0193,autoscout24,Seat,Ibiza,1.0 TSI 95 Style,2018,Gasolina,Manual,128500,95,7850,2026-09-01,https://exemplo.local/autoscout24/193
+A0194,olx,Seat,Ibiza,1.0 MPI 80 Reference,2021,Gasolina,Manual,35000,80,11150,2026-09-06,https://exemplo.local/olx/194
+A0195,standvirtual,Seat,Ibiza,1.0 TSI 95 Style,2019,Gasolina,Manual,80500,95,9050,2026-09-03,https://exemplo.local/standvirtual/195
+A0196,olx,Seat,Ibiza,1.6 TDI 95 Style,2023,Diesel,Manual,59500,95,11450,2026-09-05,https://exemplo.local/olx/196
+A0197,standvirtual,Seat,Ibiza,1.6 TDI 95 Style,2018,Diesel,Manual,125000,95,7750,2026-09-05,https://exemplo.local/standvirtual/197
+A0198,olx,Seat,Ibiza,1.6 TDI 95 Style,2019,Diesel,Manual,88000,95,8950,2026-09-05,https://exemplo.local/olx/198
+A0199,standvirtual,Seat,Ibiza,1.0 MPI 80 Reference,2023,Gasolina,Manual,48500,80,12550,2026-09-02,https://exemplo.local/standvirtual/199
+A0200,standvirtual,Seat,Ibiza,1.0 TSI 95 Style,2021,Gasolina,Manual,53000,95,9600,2026-09-03,https://exemplo.local/standvirtual/200
+A0201,olx,Seat,Ibiza,1.0 MPI 80 Reference,2023,Gasolina,Manual,38500,80,11750,2026-09-05,https://exemplo.local/olx/201
+A0202,autoscout24,Seat,Ibiza,1.0 MPI 80 Reference,2019,Gasolina,Manual,84000,80,8500,2026-09-04,https://exemplo.local/autoscout24/202
+A0203,standvirtual,Seat,Ibiza,1.0 MPI 80 Reference,2020,Gasolina,Manual,60000,80,9750,2026-09-02,https://exemplo.local/standvirtual/203
+A0204,standvirtual,Seat,Ibiza,1.0 MPI 80 Reference,2020,Gasolina,Manual,169000,80,8600,2026-09-01,https://exemplo.local/standvirtual/204
+A0205,standvirtual,Seat,Ibiza,1.0 MPI 80 Reference,2017,Gasolina,Manual,108000,80,6800,2026-09-01,https://exemplo.local/standvirtual/205
+A0206,standvirtual,Seat,Ibiza,1.6 TDI 95 Style,2018,Diesel,Manual,106000,95,7900,2026-09-05,https://exemplo.local/standvirtual/206
+A0207,autoscout24,Seat,Ibiza,1.0 TSI 95 Style,2016,Gasolina,Manual,102000,95,7400,2026-09-05,https://exemplo.local/autoscout24/207
+A0208,standvirtual,Seat,Ibiza,1.6 TDI 95 Style,2019,Diesel,Manual,202000,95,6700,2026-09-02,https://exemplo.local/standvirtual/208
+A0209,standvirtual,Seat,Ibiza,1.6 TDI 95 Style,2017,Diesel,Manual,197500,95,6100,2026-09-05,https://exemplo.local/standvirtual/209
+A0210,autoscout24,Seat,Ibiza,1.6 TDI 95 Style,2020,Diesel,Manual,107500,95,8300,2026-09-03,https://exemplo.local/autoscout24/210
+A0211,olx,Seat,Ibiza,1.0 TSI 95 Style,2024,Gasolina,Manual,38500,95,12550,2026-09-06,https://exemplo.local/olx/211
+A0212,olx,Seat,Ibiza,1.6 TDI 95 Style,2022,Diesel,Manual,89000,95,9750,2026-09-05,https://exemplo.local/olx/212
+A0213,standvirtual,Seat,Leon,2.0 TDI 150 FR DSG,2021,Diesel,Automática,118000,150,13000,2026-09-06,https://exemplo.local/standvirtual/213
+A0214,olx,Seat,Leon,1.6 TDI 115 Style,2014,Diesel,Manual,158000,115,7950,2026-09-04,https://exemplo.local/olx/214
+A0215,olx,Seat,Leon,2.0 TDI 150 FR DSG,2023,Diesel,Automática,34500,150,15150,2026-09-05,https://exemplo.local/olx/215
+A0216,olx,Seat,Leon,2.0 TDI 150 FR DSG,2019,Diesel,Automática,71500,150,13300,2026-09-06,https://exemplo.local/olx/216
+A0217,olx,Seat,Leon,1.5 TSI 130 FR,2021,Gasolina,Manual,58500,130,16950,2026-09-02,https://exemplo.local/olx/217
+A0218,standvirtual,Seat,Leon,2.0 TDI 150 FR DSG,2017,Diesel,Automática,161500,150,8550,2026-09-06,https://exemplo.local/standvirtual/218
+A0219,standvirtual,Seat,Leon,1.6 TDI 115 Style,2020,Diesel,Manual,115500,115,13350,2026-09-03,https://exemplo.local/standvirtual/219
+A0220,standvirtual,Seat,Leon,1.5 TSI 130 FR,2024,Gasolina,Manual,43500,130,18000,2026-09-05,https://exemplo.local/standvirtual/220
+A0221,olx,Seat,Leon,2.0 TDI 150 FR DSG,2021,Diesel,Automática,42500,150,16300,2026-09-02,https://exemplo.local/olx/221
+A0222,standvirtual,Seat,Leon,1.6 TDI 115 Style,2015,Diesel,Manual,137000,115,11800,2026-09-02,https://exemplo.local/standvirtual/222
+A0223,autoscout24,Seat,Leon,1.6 TDI 115 Style,2019,Diesel,Manual,103000,115,11450,2026-09-03,https://exemplo.local/autoscout24/223
+A0224,autoscout24,Seat,Leon,2.0 TDI 150 FR DSG,2020,Diesel,Automática,97000,150,12700,2026-09-02,https://exemplo.local/autoscout24/224
+A0225,olx,Seat,Leon,1.6 TDI 115 Style,2024,Diesel,Manual,37000,115,18250,2026-09-03,https://exemplo.local/olx/225
+A0226,olx,Seat,Leon,1.6 TDI 115 Style,2023,Diesel,Manual,37500,115,16800,2026-09-05,https://exemplo.local/olx/226
+A0227,standvirtual,Seat,Leon,1.6 TDI 115 Style,2023,Diesel,Manual,44000,115,16550,2026-09-02,https://exemplo.local/standvirtual/227
+A0228,olx,Seat,Leon,1.6 TDI 115 Style,2022,Diesel,Manual,90000,115,13250,2026-09-02,https://exemplo.local/olx/228
+A0229,standvirtual,Seat,Leon,2.0 TDI 150 FR DSG,2023,Diesel,Automática,67500,150,18400,2026-09-06,https://exemplo.local/standvirtual/229
+A0230,standvirtual,Seat,Leon,1.6 TDI 115 Style,2014,Diesel,Manual,158500,115,8100,2026-09-03,https://exemplo.local/standvirtual/230
+A0231,standvirtual,BMW,Série 1,118i Auto,2020,Gasolina,Automática,72000,136,18600,2026-09-06,https://exemplo.local/standvirtual/231
+A0232,autoscout24,BMW,Série 1,118i Auto,2023,Gasolina,Automática,61500,136,23400,2026-09-03,https://exemplo.local/autoscout24/232
+A0233,autoscout24,BMW,Série 1,116d Advantage,2024,Diesel,Manual,29500,116,23100,2026-09-03,https://exemplo.local/autoscout24/233
+A0234,olx,BMW,Série 1,118i Auto,2022,Gasolina,Automática,136500,136,19400,2026-09-05,https://exemplo.local/olx/234
+A0235,autoscout24,BMW,Série 1,116d Advantage,2020,Diesel,Manual,92500,116,18050,2026-09-01,https://exemplo.local/autoscout24/235
+A0236,olx,BMW,Série 1,118i Auto,2020,Gasolina,Automática,80500,136,18250,2026-09-04,https://exemplo.local/olx/236
+A0237,olx,BMW,Série 1,118i Auto,2019,Gasolina,Automática,93500,136,16700,2026-09-06,https://exemplo.local/olx/237
+A0238,standvirtual,BMW,Série 1,116d Advantage,2022,Diesel,Manual,63000,116,18550,2026-09-01,https://exemplo.local/standvirtual/238
+A0239,olx,BMW,Série 1,116d Advantage,2024,Diesel,Manual,18500,116,27300,2026-09-06,https://exemplo.local/olx/239
+A0240,standvirtual,BMW,Série 1,118d Line Sport Auto,2019,Diesel,Automática,157000,150,14050,2026-09-06,https://exemplo.local/standvirtual/240
+A0241,standvirtual,BMW,Série 1,116d Advantage,2021,Diesel,Manual,67000,116,21050,2026-09-05,https://exemplo.local/standvirtual/241
+A0242,standvirtual,BMW,Série 1,116d Advantage,2024,Diesel,Manual,27500,116,27750,2026-09-04,https://exemplo.local/standvirtual/242
+A0243,autoscout24,BMW,Série 1,116d Advantage,2019,Diesel,Manual,81500,116,17350,2026-09-01,https://exemplo.local/autoscout24/243
+A0244,standvirtual,BMW,Série 1,116d Advantage,2018,Diesel,Manual,63500,116,15500,2026-09-06,https://exemplo.local/standvirtual/244
+A0245,standvirtual,BMW,Série 1,116d Advantage,2018,Diesel,Manual,73500,116,16850,2026-09-01,https://exemplo.local/standvirtual/245
+A0246,autoscout24,BMW,Série 1,118i Auto,2020,Gasolina,Automática,110500,136,19400,2026-09-02,https://exemplo.local/autoscout24/246
+A0247,standvirtual,BMW,Série 1,116d Advantage,2024,Diesel,Manual,30500,116,27600,2026-09-05,https://exemplo.local/standvirtual/247
+A0248,standvirtual,BMW,Série 1,118i Auto,2021,Gasolina,Automática,77500,136,18400,2026-09-06,https://exemplo.local/standvirtual/248
+A0249,standvirtual,Mercedes-Benz,Classe A,A 200 AMG Line,2021,Gasolina,Automática,69500,163,18100,2026-09-05,https://exemplo.local/standvirtual/249
+A0250,autoscout24,Mercedes-Benz,Classe A,A 180 d Style,2022,Diesel,Automática,106000,116,20550,2026-09-05,https://exemplo.local/autoscout24/250
+A0251,autoscout24,Mercedes-Benz,Classe A,A 200 AMG Line,2018,Gasolina,Automática,72500,163,17700,2026-09-03,https://exemplo.local/autoscout24/251
+A0252,standvirtual,Mercedes-Benz,Classe A,A 200 AMG Line,2019,Gasolina,Automática,112000,163,17500,2026-09-05,https://exemplo.local/standvirtual/252
+A0253,autoscout24,Mercedes-Benz,Classe A,A 180 d Style,2020,Diesel,Automática,125500,116,17100,2026-09-01,https://exemplo.local/autoscout24/253
+A0254,standvirtual,Mercedes-Benz,Classe A,A 200 AMG Line,2023,Gasolina,Automática,67000,163,24600,2026-09-02,https://exemplo.local/standvirtual/254
+A0255,standvirtual,Mercedes-Benz,Classe A,A 200 AMG Line,2019,Gasolina,Automática,108500,163,17550,2026-09-05,https://exemplo.local/standvirtual/255
+A0256,standvirtual,Mercedes-Benz,Classe A,A 200 AMG Line,2022,Gasolina,Automática,52500,163,21550,2026-09-01,https://exemplo.local/standvirtual/256
+A0257,standvirtual,Mercedes-Benz,Classe A,A 180 d Style,2022,Diesel,Automática,72000,116,20650,2026-09-02,https://exemplo.local/standvirtual/257
+A0258,olx,Mercedes-Benz,Classe A,A 200 AMG Line,2020,Gasolina,Automática,134500,163,18100,2026-09-04,https://exemplo.local/olx/258
+A0259,standvirtual,Mercedes-Benz,Classe A,A 200 AMG Line,2019,Gasolina,Automática,130500,163,14000,2026-09-05,https://exemplo.local/standvirtual/259
+A0260,standvirtual,Mercedes-Benz,Classe A,A 180 d Style,2020,Diesel,Automática,98000,116,17900,2026-09-02,https://exemplo.local/standvirtual/260
+A0261,olx,Mercedes-Benz,Classe A,A 200 AMG Line,2015,Gasolina,Automática,156500,163,11800,2026-09-05,https://exemplo.local/olx/261
+A0262,autoscout24,Mercedes-Benz,Classe A,A 200 AMG Line,2022,Gasolina,Automática,40500,163,22900,2026-09-03,https://exemplo.local/autoscout24/262
+A0263,autoscout24,Mercedes-Benz,Classe A,A 180 d Style,2019,Diesel,Automática,92000,116,16050,2026-09-02,https://exemplo.local/autoscout24/263
+A0264,standvirtual,Mercedes-Benz,Classe A,A 180 d Style,2016,Diesel,Automática,127500,116,14050,2026-09-01,https://exemplo.local/standvirtual/264
+A0265,olx,Nissan,Qashqai,1.5 dCi 115 N-Connecta,2020,Diesel,Manual,75000,115,16450,2026-09-01,https://exemplo.local/olx/265
+A0266,olx,Nissan,Qashqai,1.3 DIG-T 140 Acenta,2018,Gasolina,Manual,90000,140,11900,2026-09-02,https://exemplo.local/olx/266
+A0267,autoscout24,Nissan,Qashqai,1.3 DIG-T 140 Acenta,2014,Gasolina,Manual,146500,140,9350,2026-09-04,https://exemplo.local/autoscout24/267
+A0268,olx,Nissan,Qashqai,1.3 DIG-T 140 Acenta,2021,Gasolina,Manual,78000,140,16050,2026-09-06,https://exemplo.local/olx/268
+A0269,standvirtual,Nissan,Qashqai,1.3 DIG-T 140 Acenta,2015,Gasolina,Manual,130500,140,10400,2026-09-05,https://exemplo.local/standvirtual/269
+A0270,standvirtual,Nissan,Qashqai,1.5 dCi 115 N-Connecta,2021,Diesel,Manual,102000,115,15050,2026-09-05,https://exemplo.local/standvirtual/270
+A0271,olx,Nissan,Qashqai,1.3 DIG-T 140 Acenta,2017,Gasolina,Manual,146500,140,11400,2026-09-03,https://exemplo.local/olx/271
+A0272,standvirtual,Nissan,Qashqai,1.5 dCi 115 N-Connecta,2019,Diesel,Manual,128500,115,11600,2026-09-03,https://exemplo.local/standvirtual/272
+A0273,standvirtual,Nissan,Qashqai,1.5 dCi 115 N-Connecta,2024,Diesel,Manual,26000,115,21850,2026-09-01,https://exemplo.local/standvirtual/273
+A0274,olx,Nissan,Qashqai,1.3 DIG-T 140 Acenta,2016,Gasolina,Manual,86500,140,11950,2026-09-03,https://exemplo.local/olx/274
+A0275,autoscout24,Nissan,Qashqai,1.5 dCi 115 N-Connecta,2018,Diesel,Manual,111500,115,11800,2026-09-02,https://exemplo.local/autoscout24/275
+A0276,standvirtual,Nissan,Qashqai,1.5 dCi 115 N-Connecta,2018,Diesel,Manual,102000,115,12150,2026-09-03,https://exemplo.local/standvirtual/276
+A0277,olx,Nissan,Qashqai,1.3 DIG-T 140 Acenta,2022,Gasolina,Manual,78000,140,18300,2026-09-04,https://exemplo.local/olx/277
+A0278,standvirtual,Nissan,Qashqai,1.3 DIG-T 140 Acenta,2022,Gasolina,Manual,35500,140,19350,2026-09-04,https://exemplo.local/standvirtual/278
+A0279,standvirtual,Nissan,Qashqai,1.5 dCi 115 N-Connecta,2018,Diesel,Manual,147000,115,13300,2026-09-02,https://exemplo.local/standvirtual/279
+A0280,standvirtual,Nissan,Qashqai,1.3 DIG-T 140 Acenta,2024,Gasolina,Manual,38500,140,20800,2026-09-04,https://exemplo.local/standvirtual/280
+A0281,autoscout24,Dacia,Sandero,1.5 dCi 90 Stepway,2017,Diesel,Manual,57000,90,5550,2026-09-01,https://exemplo.local/autoscout24/281
+A0282,standvirtual,Dacia,Sandero,1.0 TCe 90 Stepway,2017,Gasolina,Manual,115000,90,4550,2026-09-04,https://exemplo.local/standvirtual/282
+A0283,standvirtual,Dacia,Sandero,1.0 SCe 75 Comfort,2019,Gasolina,Manual,121000,75,5700,2026-09-06,https://exemplo.local/standvirtual/283
+A0284,standvirtual,Dacia,Sandero,1.5 dCi 90 Stepway,2023,Diesel,Manual,48000,90,8400,2026-09-02,https://exemplo.local/standvirtual/284
+A0285,olx,Dacia,Sandero,1.0 TCe 90 Stepway,2017,Gasolina,Manual,157500,90,4350,2026-09-06,https://exemplo.local/olx/285
+A0286,olx,Dacia,Sandero,1.0 TCe 90 Stepway,2016,Gasolina,Manual,110000,90,5000,2026-09-05,https://exemplo.local/olx/286
+A0287,olx,Dacia,Sandero,1.5 dCi 90 Stepway,2017,Diesel,Manual,117500,90,2800,2026-09-06,https://exemplo.local/olx/287
+A0288,standvirtual,Dacia,Sandero,1.0 TCe 90 Stepway,2023,Gasolina,Manual,55500,90,8500,2026-09-02,https://exemplo.local/standvirtual/288
+A0289,standvirtual,Dacia,Sandero,1.0 TCe 90 Stepway,2020,Gasolina,Manual,79500,90,4600,2026-09-03,https://exemplo.local/standvirtual/289
+A0290,standvirtual,Dacia,Sandero,1.0 SCe 75 Comfort,2021,Gasolina,Manual,62500,75,7450,2026-09-05,https://exemplo.local/standvirtual/290
+A0291,olx,Dacia,Sandero,1.0 TCe 90 Stepway,2018,Gasolina,Manual,112000,90,5000,2026-09-04,https://exemplo.local/olx/291
+A0292,standvirtual,Dacia,Sandero,1.0 TCe 90 Stepway,2020,Gasolina,Manual,72000,90,7050,2026-09-06,https://exemplo.local/standvirtual/292
+A0293,standvirtual,Dacia,Sandero,1.0 SCe 75 Comfort,2020,Gasolina,Manual,132500,75,5800,2026-09-02,https://exemplo.local/standvirtual/293
+A0294,standvirtual,Dacia,Sandero,1.5 dCi 90 Stepway,2024,Diesel,Manual,25000,90,9350,2026-09-01,https://exemplo.local/standvirtual/294
+A0295,standvirtual,Dacia,Sandero,1.0 TCe 90 Stepway,2021,Gasolina,Manual,142500,90,5950,2026-09-05,https://exemplo.local/standvirtual/295
+A0296,standvirtual,Dacia,Sandero,1.0 SCe 75 Comfort,2018,Gasolina,Manual,64500,75,5550,2026-09-04,https://exemplo.local/standvirtual/296
+A0297,olx,Dacia,Sandero,1.5 dCi 90 Stepway,2019,Diesel,Manual,62500,90,6300,2026-09-06,https://exemplo.local/olx/297
+A0298,standvirtual,Dacia,Sandero,1.0 TCe 90 Stepway,2017,Gasolina,Manual,110000,90,5000,2026-09-03,https://exemplo.local/standvirtual/298
+A0299,olx,Dacia,Sandero,1.0 TCe 90 Stepway,2017,Gasolina,Manual,136000,90,4800,2026-09-04,https://exemplo.local/olx/299
+A0300,standvirtual,Dacia,Sandero,1.5 dCi 90 Stepway,2015,Diesel,Manual,206000,90,3450,2026-09-05,https://exemplo.local/standvirtual/300
+A0301,standvirtual,Ford,Fiesta,1.0 EcoBoost 100 Titanium,2020,Gasolina,Manual,124500,100,8950,2026-09-05,https://exemplo.local/standvirtual/301
+A0302,standvirtual,Ford,Fiesta,1.0 EcoBoost 100 Titanium,2020,Gasolina,Manual,171000,100,8200,2026-09-02,https://exemplo.local/standvirtual/302
+A0303,autoscout24,Ford,Fiesta,1.1 Ti-VCT 75 Trend,2022,Gasolina,Manual,68000,75,9850,2026-09-01,https://exemplo.local/autoscout24/303
+A0304,olx,Ford,Fiesta,1.0 EcoBoost 100 Titanium,2023,Gasolina,Manual,23000,100,12200,2026-09-06,https://exemplo.local/olx/304
+A0305,standvirtual,Ford,Fiesta,1.0 EcoBoost 100 Titanium,2017,Gasolina,Manual,102500,100,6450,2026-09-01,https://exemplo.local/standvirtual/305
+A0306,standvirtual,Ford,Fiesta,1.1 Ti-VCT 75 Trend,2018,Gasolina,Manual,142500,75,6750,2026-09-05,https://exemplo.local/standvirtual/306
+A0307,standvirtual,Ford,Fiesta,1.5 TDCi 85 Trend,2022,Diesel,Manual,56500,85,11150,2026-09-06,https://exemplo.local/standvirtual/307
+A0308,olx,Ford,Fiesta,1.5 TDCi 85 Trend,2018,Diesel,Manual,111500,85,7700,2026-09-06,https://exemplo.local/olx/308
+A0309,standvirtual,Ford,Fiesta,1.0 EcoBoost 100 Titanium,2016,Gasolina,Manual,322500,100,4350,2026-09-06,https://exemplo.local/standvirtual/309
+A0310,standvirtual,Ford,Fiesta,1.0 EcoBoost 100 Titanium,2018,Gasolina,Manual,201500,100,7250,2026-09-06,https://exemplo.local/standvirtual/310
+A0311,standvirtual,Ford,Fiesta,1.1 Ti-VCT 75 Trend,2022,Gasolina,Manual,88500,75,9700,2026-09-03,https://exemplo.local/standvirtual/311
+A0312,autoscout24,Ford,Fiesta,1.0 EcoBoost 100 Titanium,2022,Gasolina,Manual,23500,100,11850,2026-09-01,https://exemplo.local/autoscout24/312
+A0313,standvirtual,Ford,Fiesta,1.0 EcoBoost 100 Titanium,2016,Gasolina,Manual,198500,100,5400,2026-09-06,https://exemplo.local/standvirtual/313
+A0314,standvirtual,Ford,Fiesta,1.5 TDCi 85 Trend,2016,Diesel,Manual,110000,85,6700,2026-09-05,https://exemplo.local/standvirtual/314
+A0315,standvirtual,Ford,Fiesta,1.5 TDCi 85 Trend,2019,Diesel,Manual,67000,85,7950,2026-09-04,https://exemplo.local/standvirtual/315
+A0316,autoscout24,Ford,Fiesta,1.1 Ti-VCT 75 Trend,2021,Gasolina,Manual,53000,75,9300,2026-09-02,https://exemplo.local/autoscout24/316
+A0317,olx,Ford,Fiesta,1.1 Ti-VCT 75 Trend,2021,Gasolina,Manual,84000,75,9100,2026-09-05,https://exemplo.local/olx/317
+A0318,standvirtual,Ford,Fiesta,1.5 TDCi 85 Trend,2022,Diesel,Manual,115500,85,8900,2026-09-02,https://exemplo.local/standvirtual/318
+A0319,olx,Ford,Focus,1.5 TDCi 120 Titanium,2017,Diesel,Manual,115500,120,9350,2026-09-02,https://exemplo.local/olx/319
+A0320,olx,Ford,Focus,1.0 EcoBoost 125 ST-Line,2022,Gasolina,Manual,127500,125,13900,2026-09-03,https://exemplo.local/olx/320
+A0321,autoscout24,Ford,Focus,1.5 TDCi 120 Titanium,2022,Diesel,Manual,52500,120,14350,2026-09-02,https://exemplo.local/autoscout24/321
+A0322,standvirtual,Ford,Focus,1.5 TDCi 120 Titanium,2020,Diesel,Manual,148500,120,11050,2026-09-06,https://exemplo.local/standvirtual/322
+A0323,standvirtual,Ford,Focus,1.0 EcoBoost 125 ST-Line,2024,Gasolina,Manual,21000,125,19500,2026-09-01,https://exemplo.local/standvirtual/323
+A0324,standvirtual,Ford,Focus,1.0 EcoBoost 125 ST-Line,2019,Gasolina,Manual,89000,125,11400,2026-09-02,https://exemplo.local/standvirtual/324
+A0325,olx,Ford,Focus,1.0 EcoBoost 125 ST-Line,2016,Gasolina,Manual,110500,125,9000,2026-09-06,https://exemplo.local/olx/325
+A0326,standvirtual,Ford,Focus,1.5 TDCi 120 Titanium,2015,Diesel,Manual,106500,120,8050,2026-09-05,https://exemplo.local/standvirtual/326
+A0327,standvirtual,Ford,Focus,1.5 TDCi 120 Titanium,2016,Diesel,Manual,228000,120,6550,2026-09-03,https://exemplo.local/standvirtual/327
+A0328,autoscout24,Ford,Focus,1.5 TDCi 120 Titanium,2019,Diesel,Manual,123000,120,10550,2026-09-03,https://exemplo.local/autoscout24/328
+A0329,standvirtual,Ford,Focus,1.0 EcoBoost 125 ST-Line,2020,Gasolina,Manual,105000,125,11250,2026-09-01,https://exemplo.local/standvirtual/329
+A0330,standvirtual,Ford,Focus,1.0 EcoBoost 125 ST-Line,2022,Gasolina,Manual,124000,125,13650,2026-09-06,https://exemplo.local/standvirtual/330
+A0331,standvirtual,Ford,Focus,1.5 TDCi 120 Titanium,2023,Diesel,Manual,16000,120,14650,2026-09-01,https://exemplo.local/standvirtual/331
+A0332,olx,Ford,Focus,1.0 EcoBoost 125 ST-Line,2018,Gasolina,Manual,64500,125,10700,2026-09-01,https://exemplo.local/olx/332
+A0333,autoscout24,Hyundai,i20,1.2 MPI 84 Comfort,2017,Gasolina,Manual,131000,84,7200,2026-09-03,https://exemplo.local/autoscout24/333
+A0334,standvirtual,Hyundai,i20,1.0 T-GDi 100 Style,2020,Gasolina,Manual,66000,100,9650,2026-09-05,https://exemplo.local/standvirtual/334
+A0335,standvirtual,Hyundai,i20,1.2 MPI 84 Comfort,2021,Gasolina,Manual,86000,84,10450,2026-09-04,https://exemplo.local/standvirtual/335
+A0336,standvirtual,Hyundai,i20,1.2 MPI 84 Comfort,2024,Gasolina,Manual,64500,84,12550,2026-09-05,https://exemplo.local/standvirtual/336
+A0337,autoscout24,Hyundai,i20,1.0 T-GDi 100 Style,2020,Gasolina,Manual,103500,100,7850,2026-09-05,https://exemplo.local/autoscout24/337
+A0338,standvirtual,Hyundai,i20,1.2 MPI 84 Comfort,2020,Gasolina,Manual,91000,84,9550,2026-09-05,https://exemplo.local/standvirtual/338
+A0339,autoscout24,Hyundai,i20,1.0 T-GDi 100 Style,2021,Gasolina,Manual,55000,100,9850,2026-09-04,https://exemplo.local/autoscout24/339
+A0340,standvirtual,Hyundai,i20,1.0 T-GDi 100 Style,2018,Gasolina,Manual,144000,100,6500,2026-09-04,https://exemplo.local/standvirtual/340
+A0341,standvirtual,Hyundai,i20,1.0 T-GDi 100 Style,2016,Gasolina,Manual,103500,100,6550,2026-09-04,https://exemplo.local/standvirtual/341
+A0342,autoscout24,Hyundai,i20,1.0 T-GDi 100 Style,2022,Gasolina,Manual,68000,100,11050,2026-09-03,https://exemplo.local/autoscout24/342
+A0343,standvirtual,Hyundai,i20,1.2 MPI 84 Comfort,2024,Gasolina,Manual,28000,84,13950,2026-09-02,https://exemplo.local/standvirtual/343
+A0344,standvirtual,Hyundai,i20,1.2 MPI 84 Comfort,2016,Gasolina,Manual,186500,84,5900,2026-09-04,https://exemplo.local/standvirtual/344
+A0345,standvirtual,Fiat,500,1.2 69 Lounge,2020,Gasolina,Manual,41500,69,8800,2026-09-01,https://exemplo.local/standvirtual/345
+A0346,standvirtual,Fiat,500,1.2 69 Lounge,2023,Gasolina,Manual,60500,69,11200,2026-09-04,https://exemplo.local/standvirtual/346
+A0347,olx,Fiat,500,1.0 Hybrid 70 Dolcevita,2022,Híbrido,Manual,56000,70,9400,2026-09-02,https://exemplo.local/olx/347
+A0348,standvirtual,Fiat,500,1.0 Hybrid 70 Dolcevita,2023,Híbrido,Manual,36000,70,12450,2026-09-05,https://exemplo.local/standvirtual/348
+A0349,autoscout24,Fiat,500,1.2 69 Lounge,2018,Gasolina,Manual,91500,69,6900,2026-09-05,https://exemplo.local/autoscout24/349
+A0350,standvirtual,Fiat,500,1.2 69 Lounge,2024,Gasolina,Manual,39000,69,13700,2026-09-04,https://exemplo.local/standvirtual/350
+A0351,standvirtual,Fiat,500,1.0 Hybrid 70 Dolcevita,2019,Híbrido,Manual,79000,70,9300,2026-09-03,https://exemplo.local/standvirtual/351
+A0352,standvirtual,Fiat,500,1.2 69 Lounge,2024,Gasolina,Manual,15000,69,12700,2026-09-06,https://exemplo.local/standvirtual/352
+A0353,autoscout24,Fiat,500,1.2 69 Lounge,2020,Gasolina,Manual,144500,69,7600,2026-09-02,https://exemplo.local/autoscout24/353
+A0354,olx,Fiat,500,1.0 Hybrid 70 Dolcevita,2023,Híbrido,Manual,83500,70,11250,2026-09-02,https://exemplo.local/olx/354
+A0355,standvirtual,Fiat,500,1.0 Hybrid 70 Dolcevita,2020,Híbrido,Manual,46000,70,10150,2026-09-04,https://exemplo.local/standvirtual/355
+A0356,standvirtual,Fiat,500,1.2 69 Lounge,2019,Gasolina,Manual,51500,69,7850,2026-09-01,https://exemplo.local/standvirtual/356
+A0357,standvirtual,Fiat,500,1.0 Hybrid 70 Dolcevita,2024,Híbrido,Manual,28000,70,13450,2026-09-02,https://exemplo.local/standvirtual/357
+A0358,olx,Fiat,500,1.0 Hybrid 70 Dolcevita,2021,Híbrido,Manual,93500,70,8850,2026-09-02,https://exemplo.local/olx/358
+A0359,autoscout24,Citroën,C3,1.5 BlueHDi 100 Shine,2016,Diesel,Manual,233500,100,5650,2026-09-05,https://exemplo.local/autoscout24/359
+A0360,standvirtual,Citroën,C3,1.2 PureTech 83 Feel,2021,Gasolina,Manual,47000,83,10450,2026-09-01,https://exemplo.local/standvirtual/360
+A0361,autoscout24,Citroën,C3,1.5 BlueHDi 100 Shine,2017,Diesel,Manual,191000,100,6250,2026-09-04,https://exemplo.local/autoscout24/361
+A0362,autoscout24,Citroën,C3,1.5 BlueHDi 100 Shine,2018,Diesel,Manual,93000,100,7550,2026-09-04,https://exemplo.local/autoscout24/362
+A0363,olx,Citroën,C3,1.5 BlueHDi 100 Shine,2019,Diesel,Manual,68000,100,7950,2026-09-05,https://exemplo.local/olx/363
+A0364,standvirtual,Citroën,C3,1.2 PureTech 83 Feel,2022,Gasolina,Manual,51000,83,10200,2026-09-04,https://exemplo.local/standvirtual/364
+A0365,standvirtual,Citroën,C3,1.2 PureTech 83 Feel,2020,Gasolina,Manual,104000,83,8100,2026-09-01,https://exemplo.local/standvirtual/365
+A0366,standvirtual,Citroën,C3,1.5 BlueHDi 100 Shine,2017,Diesel,Manual,100000,100,7150,2026-09-06,https://exemplo.local/standvirtual/366
+A0367,standvirtual,Citroën,C3,1.5 BlueHDi 100 Shine,2021,Diesel,Manual,65500,100,9900,2026-09-05,https://exemplo.local/standvirtual/367
+A0368,standvirtual,Citroën,C3,1.5 BlueHDi 100 Shine,2016,Diesel,Manual,252000,100,3050,2026-09-01,https://exemplo.local/standvirtual/368
+A0369,olx,Citroën,C3,1.5 BlueHDi 100 Shine,2024,Diesel,Manual,29500,100,11600,2026-09-04,https://exemplo.local/olx/369
+A0370,standvirtual,Citroën,C3,1.5 BlueHDi 100 Shine,2017,Diesel,Manual,195000,100,6000,2026-09-03,https://exemplo.local/standvirtual/370
+A0371,olx,Citroën,C3,1.5 BlueHDi 100 Shine,2018,Diesel,Manual,103500,100,7950,2026-09-06,https://exemplo.local/olx/371
+A0372,autoscout24,Citroën,C3,1.5 BlueHDi 100 Shine,2024,Diesel,Manual,34000,100,13300,2026-09-05,https://exemplo.local/autoscout24/372
+A0373,standvirtual,Audi,A3,35 TFSI S tronic,2020,Gasolina,Automática,72000,150,18750,2026-09-06,https://exemplo.local/standvirtual/373
+A0374,autoscout24,Audi,A3,30 TDI Sportback,2016,Diesel,Manual,181000,116,10950,2026-09-02,https://exemplo.local/autoscout24/374
+A0375,standvirtual,Audi,A3,30 TDI Sportback,2015,Diesel,Manual,98000,116,11500,2026-09-06,https://exemplo.local/standvirtual/375
+A0376,autoscout24,Audi,A3,35 TFSI S tronic,2020,Gasolina,Automática,140500,150,15500,2026-09-01,https://exemplo.local/autoscout24/376
+A0377,olx,Audi,A3,35 TFSI S tronic,2016,Gasolina,Automática,92500,150,13500,2026-09-01,https://exemplo.local/olx/377
+A0378,olx,Audi,A3,35 TFSI S tronic,2023,Gasolina,Automática,30000,150,14050,2026-09-04,https://exemplo.local/olx/378
+A0379,standvirtual,Audi,A3,30 TDI Sportback,2021,Diesel,Manual,90000,116,17550,2026-09-03,https://exemplo.local/standvirtual/379
+A0380,standvirtual,Audi,A3,35 TFSI S tronic,2023,Gasolina,Automática,38000,150,22350,2026-09-06,https://exemplo.local/standvirtual/380
+A0381,autoscout24,Audi,A3,30 TDI Sportback,2017,Diesel,Manual,225000,116,10600,2026-09-03,https://exemplo.local/autoscout24/381
+A0382,olx,Audi,A3,35 TFSI S tronic,2017,Gasolina,Automática,286000,150,9100,2026-09-03,https://exemplo.local/olx/382
+A0383,olx,Audi,A3,30 TDI Sportback,2015,Diesel,Manual,203500,116,9800,2026-09-05,https://exemplo.local/olx/383
+A0384,autoscout24,Audi,A3,30 TDI Sportback,2022,Diesel,Manual,45500,116,20100,2026-09-06,https://exemplo.local/autoscout24/384
+A0385,standvirtual,Audi,A3,35 TFSI S tronic,2022,Gasolina,Automática,60500,150,20550,2026-09-01,https://exemplo.local/standvirtual/385
+A0386,autoscout24,Audi,A3,35 TFSI S tronic,2020,Gasolina,Automática,81000,150,18400,2026-09-06,https://exemplo.local/autoscout24/386
+A0387,olx,Skoda,Octavia,1.6 TDI 115 Ambition,2018,Diesel,Manual,110500,115,12000,2026-09-02,https://exemplo.local/olx/387
+A0388,autoscout24,Skoda,Octavia,2.0 TDI 150 Style DSG,2021,Diesel,Automática,79500,150,19800,2026-09-06,https://exemplo.local/autoscout24/388
+A0389,autoscout24,Skoda,Octavia,1.6 TDI 115 Ambition,2021,Diesel,Manual,97500,115,14100,2026-09-06,https://exemplo.local/autoscout24/389
+A0390,autoscout24,Skoda,Octavia,2.0 TDI 150 Style DSG,2018,Diesel,Automática,113000,150,12750,2026-09-04,https://exemplo.local/autoscout24/390
+A0391,standvirtual,Skoda,Octavia,1.6 TDI 115 Ambition,2020,Diesel,Manual,167500,115,11500,2026-09-06,https://exemplo.local/standvirtual/391
+A0392,olx,Skoda,Octavia,2.0 TDI 150 Style DSG,2015,Diesel,Automática,221500,150,7550,2026-09-06,https://exemplo.local/olx/392
+A0393,autoscout24,Skoda,Octavia,1.6 TDI 115 Ambition,2020,Diesel,Manual,76500,115,13250,2026-09-05,https://exemplo.local/autoscout24/393
+A0394,standvirtual,Skoda,Octavia,1.6 TDI 115 Ambition,2021,Diesel,Manual,69000,115,15500,2026-09-06,https://exemplo.local/standvirtual/394
+A0395,olx,Skoda,Octavia,1.6 TDI 115 Ambition,2019,Diesel,Manual,158000,115,12200,2026-09-04,https://exemplo.local/olx/395
+A0396,standvirtual,Skoda,Octavia,1.6 TDI 115 Ambition,2022,Diesel,Manual,79000,115,15100,2026-09-02,https://exemplo.local/standvirtual/396
+A0397,standvirtual,Skoda,Octavia,1.6 TDI 115 Ambition,2024,Diesel,Manual,60000,115,18850,2026-09-02,https://exemplo.local/standvirtual/397
+A0398,standvirtual,Skoda,Octavia,2.0 TDI 150 Style DSG,2019,Diesel,Automática,115500,150,11500,2026-09-01,https://exemplo.local/standvirtual/398

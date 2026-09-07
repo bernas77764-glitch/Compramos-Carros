@@ -1,0 +1,21 @@
+{
+  "_comentario": "Parâmetros de negócio. Qualquer chave omitida usa o valor padrão de avaliador/config.py.",
+  "criterios": {
+    "tolerancia_anos": 2,
+    "tolerancia_km": 60000,
+    "minimo_comparaveis": 3
+  },
+  "ajustes": {
+    "pct_por_10000_km": 1.5,
+    "pct_por_ano": 6.0,
+    "desconto_negociacao_pct": 5.0
+  },
+  "estado": { "1": -15.0, "2": -8.0, "3": 0.0, "4": 3.0, "5": 6.0 },
+  "proposta": {
+    "margem_pct": 12.0,
+    "custos_fixos_eur": 350.0,
+    "recondicionamento_por_estado_eur": { "1": 1500.0, "2": 800.0, "3": 400.0, "4": 150.0, "5": 0.0 }
+  },
+  "confianca": { "cv_alta": 0.08, "cv_media": 0.15, "n_alta": 8, "n_media": 4 },
+  "arredondamento_eur": 50
+}
