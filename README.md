@@ -1,5 +1,8 @@
 # Compramos Carros — Avaliador automático de viaturas (protótipo)
 
+> **Site compramoscarros.pt:** está na pasta [`site/`](site/). Ver [`docs/SITE.md`](docs/SITE.md)
+> para editar textos, configurar os formulários e publicar no domínio.
+
 Protótipo para estudar a viabilidade de **automatizar a atribuição de valor** a viaturas usadas.
 Parte de anúncios de mercado (Standvirtual, OLX, AutoScout24, …), encontra os anúncios
 comparáveis, ajusta-os ao ano e quilometragem da viatura e calcula:

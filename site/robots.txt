@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://compramoscarros.pt/sitemap.xml
