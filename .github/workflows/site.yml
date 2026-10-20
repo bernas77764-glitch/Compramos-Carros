@@ -2,7 +2,7 @@ name: Publicar site (GitHub Pages)
 
 on:
   push:
-    branches: [main]
+    branches: [main, claude/automovel-avaliacao-automacao-9fcj82]
     paths: ["site/**"]
   workflow_dispatch:
 

@@ -37,7 +37,7 @@ Configurados em `assets/js/config.js`:
 
 ## Publicar em compramoscarros.pt (GitHub Pages)
 
-1. Juntar este ramo ao `main`.
+1. Juntar este ramo ao ramo principal do repositório (`claude/automovel-avaliacao-automacao-9fcj82`).
 2. No GitHub: **Settings → Pages → Source: GitHub Actions**. O workflow
    `.github/workflows/site.yml` publica a pasta `site/` a cada alteração.
 3. Em **Settings → Pages → Custom domain** escrever `compramoscarros.pt` e ativar
